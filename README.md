@@ -61,6 +61,3 @@ Licensed under either of
    ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
-- [chrrox](https://www.deviantart.com/chrrox)
-- [minmode](https://www.deviantart.com/minmode)
-- [feat_jinsoul](https://github.com/featjinsoul)
