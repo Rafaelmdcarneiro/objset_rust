@@ -61,16 +61,6 @@ Licensed under either of
    ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
-
-## Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
-dual licensed as above, without any additional terms or conditions.
-
-# Special Thanks to
-- [Skyth](https://github.com/blueskythlikesclouds)
-- [korenkonder](https://github.com/korenkonder)
 - [chrrox](https://www.deviantart.com/chrrox)
 - [minmode](https://www.deviantart.com/minmode)
 - [feat_jinsoul](https://github.com/featjinsoul)
